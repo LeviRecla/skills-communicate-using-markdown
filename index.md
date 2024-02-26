@@ -5,4 +5,7 @@ This file demonstrates a header in markdown!
 
 ``` java
 String hello = "Hello World!"
-``` 
+```
+- [ ] Finish CS471 HW6
+- [ ] Work on CS354 IA3
+- [ ] Checkbox 3
